@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\k8s",
+    "\\k8s\\manifests"
+  ],
+  "SelectedNode": "\\k8s\\manifests\\deployment.yaml",
+  "PreviewInSolutionExplorer": false
+}
